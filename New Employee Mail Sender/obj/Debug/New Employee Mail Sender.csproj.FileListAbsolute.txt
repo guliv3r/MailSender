@@ -1,0 +1,10 @@
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\bin\Debug\New Employee Mail Sender.exe.config
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\bin\Debug\New Employee Mail Sender.exe
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\bin\Debug\New Employee Mail Sender.pdb
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New_Employee_Mail_Sender.Form1.resources
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New_Employee_Mail_Sender.Properties.Resources.resources
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New Employee Mail Sender.csproj.GenerateResource.cache
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New Employee Mail Sender.exe
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New Employee Mail Sender.pdb
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\bin\Debug\index.html
+C:\Users\albert.giulbaziani\source\repos\New Employee Mail Sender\New Employee Mail Sender\obj\Debug\New Employee Mail Sender.csproj.ResolveComReference.cache
